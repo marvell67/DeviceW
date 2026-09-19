@@ -6,7 +6,7 @@ Halaman website interaktif yang dikembangkan sebagai bagian dari study case kola
 
 ## Visualisasi
 
-![Screenshot](https://1drv.ms/i/c/7c65af942f6c1b91/IQCBUBCvWqOvQ7nIlNOcLAzAAX_i6oj7pAcTkYOq8Co2bV8?e=KXWkem)
+![Screenshot](<img width="792" height="850" alt="Screenshot 2026-09-19 131628" src="https://github.com/user-attachments/assets/37a021c0-a3a4-45eb-9f46-0a1f4d6bbf89" />)
 
 ---
 
