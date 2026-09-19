@@ -41,7 +41,8 @@ Halaman website interaktif yang dikembangkan sebagai bagian dari study case kola
 
 1. Clone repository ini:
    ```bash
-   git clone [https://github.com/marvell67/DeviceW.git](https://github.com/marvell67/DeviceW.git)
+   git clone https://github.com/marvell67/DeviceW.git
+   ```
    
 2. Buka folder hasil clone, lalu klik dua kali file `index.html` (atau klik kanan → Open with → Browser).
 
