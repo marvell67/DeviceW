@@ -33,7 +33,7 @@ Halaman website interaktif yang dikembangkan sebagai bagian dari study case kola
 |---|---|---|
 | [@marvell67](https://github.com/marvel167) | Project Initiator | Membuat repository `DeviceCode`, mengatur akses, dan mengunggah file starter `index.html` |
 | [@mochamadabi39-droid](https://github.com/mochamadabi39-droid) | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` ke `index.html` via Pull Request |
-| [@marvel167](https://github.com/marvel167) | Script Engineer | Membuat branch `scripting`, menambahkan & menghubungkan `script.js` ke `index.html` via Pull Request |
+| [@marvell67](https://github.com/marvel167) | Script Engineer | Membuat branch `scripting`, menambahkan & menghubungkan `script.js` ke `index.html` via Pull Request |
 
 ---
 
