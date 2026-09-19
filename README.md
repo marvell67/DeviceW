@@ -6,9 +6,7 @@ Halaman website interaktif yang dikembangkan sebagai bagian dari study case kola
 
 ## Visualisasi
 
-![Screenshot]()
-
-Live Demo: [https://marvell167.github.io/DeviceCode](https://marvell167.github.io/DeviceCode)
+![Screenshot](https://1drv.ms/i/c/7c65af942f6c1b91/IQCBUBCvWqOvQ7nIlNOcLAzAAX_i6oj7pAcTkYOq8Co2bV8?e=KXWkem)
 
 ---
 
